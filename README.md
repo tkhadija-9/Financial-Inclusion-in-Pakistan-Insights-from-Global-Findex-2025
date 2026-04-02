@@ -108,56 +108,6 @@ The digital divide is even sharper than the basic account gap—women face compo
 
 ---
 
-## Technical Stack
-
-| Component | Tool |
-|-----------|------|
-| Data processing | Pandas |
-| Numerical computation | NumPy |
-| Visualization | Matplotlib |
-| Notebook environment | Jupyter |
-| Language | Python 3.8+ |
-
----
-
-## How to Run This Analysis
-
-### Prerequisites
-- Python 3.8 or higher
-- pip (Python package manager)
-
-### Installation
-
-1. **Clone the repository:**
-1. **Clone the repository:**
-```bash
-git clone https://github.com/tkhadija-9/Financial-Inclusion-in-Pakistan-Insights-from-Global-Findex-2025.git
-cd Financial-Inclusion-in-Pakistan-Insights-from-Global-Findex-2025
-```
-
-2. **Install required packages:**
-```bash
-pip install -r requirements.txt
-```
-
-3. **Download the Global Findex data:**
-   - Visit [World Bank Global Findex](https://microdata.worldbank.org/catalog/7860)
-   - Create a free account and read the T&Cs
-   - Download the 2025 microdata CSV
-   - Save as `findex_microdata_2025_labelled_update112425.csv` in the project root
-
-4. **Run the notebook:**
-```bash
-jupyter notebook notebook/Financial_Inclusion_Pakistan_2025.ipynb
-```
-
-### Expected Output
-- 3 summary tables (overall, by gender, by income)
-- 3 visualization charts
-- Interpretation and policy implications
-
----
-
 ## Project Structure
 
 ```
@@ -193,7 +143,7 @@ financial-inclusion-pakistan-findex-2025/
 
 ---
 
-## Limitations & Caveats
+## Limitations
 
 1. **Cross-sectional**: This snapshot shows associations, not causal relationships
 2. **Survey bias**: Self-reported data; possible underreporting of women's financial activity
