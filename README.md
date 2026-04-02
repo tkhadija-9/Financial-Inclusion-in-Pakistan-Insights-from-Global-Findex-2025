@@ -114,8 +114,7 @@ The digital divide is even sharper than the basic account gap—women face compo
 financial-inclusion-pakistan-findex-2025/
 ├── README.md                                          # This file
 ├── requirements.txt                                   # Python dependencies
-├── notebook/
-│   └── Financial_Inclusion_Pakistan_2025.ipynb       # Main analysis notebook
+├── Financial_Inclusion_Pakistan_2025.ipynb       # Main analysis notebook
 ├── charts/
 │   ├── account-ownership-by-gender.jpeg
 │   ├──account-ownership-by-income-quintile.jpeg
