@@ -129,9 +129,10 @@ The digital divide is even sharper than the basic account gap—women face compo
 ### Installation
 
 1. **Clone the repository:**
+1. **Clone the repository:**
 ```bash
-git clone https://github.com/YOUR-USERNAME/financial-inclusion-pakistan-findex-2025.git
-cd financial-inclusion-pakistan-findex-2025
+git clone https://github.com/tkhadija-9/Financial-Inclusion-in-Pakistan-Insights-from-Global-Findex-2025.git
+cd Financial-Inclusion-in-Pakistan-Insights-from-Global-Findex-2025
 ```
 
 2. **Install required packages:**
@@ -165,13 +166,10 @@ financial-inclusion-pakistan-findex-2025/
 ├── requirements.txt                                   # Python dependencies
 ├── notebook/
 │   └── Financial_Inclusion_Pakistan_2025.ipynb       # Main analysis notebook
-├── reports/
-│   └── Financial_Inclusion_Pakistan_Report.pdf       # Written findings (1–2 pages)
 ├── charts/
-│   ├── account_by_gender.png
-│   ├── account_by_income.png
-│   └── digital_account_by_gender.png
-└── .gitignore
+│   ├── account-ownership-by-gender.jpeg
+│   ├──account-ownership-by-income-quintile.jpeg
+│   └── digital-account-ownership-by-gender.jpeg
 ```
 
 ---
@@ -212,15 +210,6 @@ If extending this analysis, consider:
 - **Macro merge**: Add GDP per capita, unemployment, or financial sector metrics
 - **Sub-group analysis**: Break down by rural/urban, education level, or regions
 - **Causal inference**: Investigate determinants via logistic regression or propensity matching
-
----
-
-## Questions & Contact
-
-For questions about this analysis:
-- **Methods**: Review the notebook for code documentation and comments
-- **Data**: Consult World Bank Global Findex documentation
-- **Findings**: See the written report in `reports/`
 
 ---
 
