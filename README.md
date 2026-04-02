@@ -41,17 +41,17 @@ Account ownership rises sharply with income:
 ### Chart 1: Account Ownership by Gender
 Gender differences are stark and immediate. Men's account ownership is over 3.5x higher than women's.
 
-![Account Ownership by Gender](Charts/account ownership by gender.jpeg)
+![Account Ownership by Gender](Charts/account-ownership-by-gender.jpeg)
 
 ### Chart 2: Account Ownership by Income Quintile
 Financial access is concentrated in higher-income groups, with the richest quintile showing nearly 3x the ownership rate of the poorest.
 
-![Account Ownership by Income](Charts/Account Ownership by Income Quintile (Pakistan).jpeg)
+![Account Ownership by Gender](Charts/account-ownership-by-income-quintile.jpeg)
 
 ### Chart 3: Digital Account Ownership by Gender
 The digital divide is even sharper than the basic account gap—women face compound barriers to digital finance.
 
-![Digital Account Ownership by Gender](Charts/Digital Account Ownership by Gender (Pakistan).jpeg)
+![Account Ownership by Gender](Charts/digital-account-ownership-by-gender.jpeg)
 
 ---
 
