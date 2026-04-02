@@ -1,0 +1,1 @@
+# Financial-Inclusion-in-Pakistan-Insights-from-Global-Findex-2025
