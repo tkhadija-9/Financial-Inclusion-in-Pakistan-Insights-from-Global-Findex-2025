@@ -41,17 +41,17 @@ Account ownership rises sharply with income:
 ### Chart 1: Account Ownership by Gender
 Gender differences are stark and immediate. Men's account ownership is over 3.5x higher than women's.
 
-![Account Ownership by Gender](charts/account_by_gender.png)
+![Account Ownership by Gender](Charts/account ownership by gender.jpeg)
 
 ### Chart 2: Account Ownership by Income Quintile
 Financial access is concentrated in higher-income groups, with the richest quintile showing nearly 3x the ownership rate of the poorest.
 
-![Account Ownership by Income](charts/account_by_income.png)
+![Account Ownership by Income](Charts/Account Ownership by Income Quintile (Pakistan).jpeg)
 
 ### Chart 3: Digital Account Ownership by Gender
 The digital divide is even sharper than the basic account gap—women face compound barriers to digital finance.
 
-![Digital Account Ownership by Gender](charts/digital_account_by_gender.png)
+![Digital Account Ownership by Gender](Charts/Digital Account Ownership by Gender (Pakistan).jpeg)
 
 ---
 
@@ -65,8 +65,8 @@ The digital divide is even sharper than the basic account gap—women face compo
 - **Weights**: Survey weights applied to reflect population-level estimates
 
 **Access the data:**
-1. Visit the [World Bank Global Findex webpage](https://www.worldbank.org/en/publication/globalfindex)
-2. Navigate to "Data" or "Microdata Hub"
+1. Visit the [World Bank Global Findex webpage](https://microdata.worldbank.org/catalog/7860)
+2. Create a free account, read the T&Cs, and provide a reason for use.
 3. Download the 2025 microdata file (CSV format)
 4. Place `findex_microdata_2025_labelled_update112425.csv` in your working directory
 
@@ -227,7 +227,7 @@ For questions about this analysis:
 ## Data Attribution
 
 **Data source**: World Bank Global Financial Inclusion (Findex) Database 2025  
-**Citation**: [World Bank Group. (2025). Global Financial Inclusion Index. Retrieved from https://www.worldbank.org/en/publication/globalfindex](https://www.worldbank.org/en/publication/globalfindex)
+**Citation**: [World Bank Group. (2025). Global Financial Inclusion Index. Retrieved from https://www.worldbank.org/en/publication/globalfindex](https://www.worldbank.org/en/publication/globalfindex)(https://microdata.worldbank.org/catalog/7860)
 
 **Analysis date**: December 2025  
 **Analyst**: Khadija Tahir (tkhadija@umich.edu)
